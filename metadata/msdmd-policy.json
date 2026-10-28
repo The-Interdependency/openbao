@@ -1,0 +1,32 @@
+{
+  "repository": "The-Interdependency/openbao",
+  "skill_lib_commit": "6bdbfe9c574e6b497f056ebd92655241fc56f681",
+  "required_sources": [
+    "go.mod",
+    "api/go.mod",
+    "sdk/go.mod",
+    "**/go.mod"
+  ],
+  "required_facts": [
+    {
+      "file": "go.mod",
+      "convention": "go.module-file",
+      "kind": "package-identity"
+    },
+    {
+      "file": "**/go.mod",
+      "convention": "go.module-file",
+      "kind": "package-identity"
+    }
+  ],
+  "generated_outputs": [
+    "openbao_msdmd.ts",
+    "metadata/msdmd-report.json"
+  ],
+  "hmmm": [
+    "Metadata extraction does not establish vault behavior, security, deployment readiness or license compliance.",
+    "Go grammar coverage excludes some newer new(value) syntax; diagnostics are not compiler verdicts.",
+    "HCL, Handlebars, SCSS and other unimplemented conventions remain visible unsupported scope.",
+    "Build configuration, type checking, dependency resolution and checksum verification are not performed."
+  ]
+}
