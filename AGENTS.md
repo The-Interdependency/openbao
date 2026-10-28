@@ -1,3 +1,21 @@
+# The Interdependency fork policy
+
+This is `The-Interdependency/openbao`. The repository owner authorized
+AI-assisted work on this fork, including its MSDMD adoption. That authorization
+governs fork-local work; the inherited upstream rejection policy below applies
+to contributions sent to `openbao/openbao`. Do not submit this fork's generated
+changes upstream or imply upstream approval.
+
+Read `.agents/skills/README.md`, `the-interdependency/SKILL.md`, `wdll/SKILL.md`
+and the applicable vendored skills before new work. Skill paths are relative to
+`.agents/skills/`. Canonical skill edits belong in `The-Interdependency/skill-lib`;
+consume exact commits, preserve source ownership, and record unknowns as `hmmm`.
+See `docs/MSDMD.md` for collection, required scope, proof limits and maintenance.
+Retain original licenses/notices and upstream-compatible Go module paths.
+No metadata collection authorizes credentials, live vault access or deployment.
+
+## Inherited upstream policy (preserved)
+
 # Policy for AI Agents
 
 <!--

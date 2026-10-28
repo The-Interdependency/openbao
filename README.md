@@ -1,5 +1,11 @@
 # OpenBao
 
+This is **The Interdependency's fork**, with native-first MSDMD metadata
+collection for evaluating OpenBao as an A0 vault component. See
+[collection and maintenance instructions](docs/MSDMD.md) and the
+[coverage report](metadata/msdmd-report.json). Metadata inventory is not runtime
+or security verification. Upstream documentation follows below.
+
 ----
 
 **Please note**: We take OpenBao's security and our users' trust

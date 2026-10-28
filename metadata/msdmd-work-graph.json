@@ -1,0 +1,35 @@
+{
+  "schema": "the-interdependency.stack-manifest",
+  "version": "1.0.0",
+  "work_graph_sha256": "987eed3b331c9560fbb660ac2271f8e45987142e5e12e35a54d8e1db0343f388",
+  "repositories": [
+    {
+      "repository": "The-Interdependency/skill-lib",
+      "commit": "6bdbfe9c574e6b497f056ebd92655241fc56f681",
+      "authority": "Canonical MSDMD reader and schema implementation",
+      "relation": "exact consumed MSDMD reader and schema implementation"
+    },
+    {
+      "repository": "openbao/openbao",
+      "commit": "5486582884a420dbd5a42e37125b59f312db7552",
+      "authority": "Upstream vault implementation and native declarations",
+      "relation": "source evidence; no upstream publication"
+    },
+    {
+      "repository": "The-Interdependency/openbao",
+      "commit": "5486582884a420dbd5a42e37125b59f312db7552",
+      "authority": "Fork adoption policy and source-owned metadata",
+      "relation": "fork source baseline; adoption result bound by content snapshot in msdmd-report.json"
+    }
+  ],
+  "boundaries": {
+    "authority_transfer": false,
+    "proof_status_transfer": false,
+    "measurement_status_transfer": false,
+    "semantic_mapping": "external-provenance",
+    "agent_scope": "cross-repository-work-graph",
+    "hmmm": [
+      "Metadata extraction does not certify vault behavior or security; unsupported formats retain their own status."
+    ]
+  }
+}
