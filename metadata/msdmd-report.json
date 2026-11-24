@@ -1,10 +1,10 @@
 {
   "canonical_source": {
-    "commit": "6bdbfe9c574e6b497f056ebd92655241fc56f681",
-    "inventory_sha256": "1d0c50ca3aafab77a91001b5732c573c3322e70bc576d666c0db65603dbebc87",
+    "commit": "33d2abe8748dd96aec3068e2997d9f73240c7c48",
+    "inventory_sha256": "56e05ae8a093d863116b93fc8d3931fbf501c880ae739f4056f33da3b6324f1a",
     "repository": "The-Interdependency/skill-lib"
   },
-  "collection_sha256": "71e5effa4319adf7d5538abdceb6d465fff002de0fd21de7a6df06aec752df1a",
+  "collection_sha256": "88fcceeed1c442f1c9a4c67a7609053bcc58bbb58adf635f797dc015425935ef",
   "conflicts": [],
   "counts": {
     "conflicts": 0,
@@ -61,7 +61,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -77,7 +77,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -93,7 +93,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -109,7 +109,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -125,7 +125,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -141,7 +141,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -157,7 +157,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -173,7 +173,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -189,7 +189,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -205,7 +205,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "ambiguous"
     },
@@ -221,7 +221,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -237,7 +237,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -253,7 +253,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -269,7 +269,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "ambiguous"
     },
@@ -285,7 +285,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -301,7 +301,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -317,7 +317,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -333,7 +333,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -349,7 +349,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -365,7 +365,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -381,7 +381,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -397,7 +397,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -413,7 +413,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -429,7 +429,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "ambiguous"
     },
@@ -445,7 +445,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -461,7 +461,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -477,7 +477,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -493,7 +493,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -509,7 +509,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -525,7 +525,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -541,7 +541,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -558,7 +558,7 @@
           "start_line": 8
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -575,7 +575,7 @@
           "start_line": 9
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -592,7 +592,7 @@
           "start_line": 10
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -609,7 +609,7 @@
           "start_line": 7
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -626,7 +626,7 @@
           "start_line": 8
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -643,7 +643,7 @@
           "start_line": 9
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -660,7 +660,7 @@
           "start_line": 10
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -677,7 +677,7 @@
           "start_line": 7
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -694,7 +694,7 @@
           "start_line": 9
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -711,7 +711,7 @@
           "start_line": 8
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -728,7 +728,7 @@
           "start_line": 80
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -745,7 +745,7 @@
           "start_line": 9
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -762,7 +762,7 @@
           "start_line": 6
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -779,7 +779,7 @@
           "start_line": 9
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -795,7 +795,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -811,7 +811,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -828,7 +828,7 @@
           "start_line": 11
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -845,7 +845,7 @@
           "start_line": 9
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -862,7 +862,7 @@
           "start_line": 12
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -879,7 +879,7 @@
           "start_line": 8
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -896,7 +896,7 @@
           "start_line": 9
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -913,7 +913,7 @@
           "start_line": 9
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -930,7 +930,7 @@
           "start_line": 10
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -947,7 +947,7 @@
           "start_line": 11
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -964,7 +964,7 @@
           "start_line": 12
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -980,7 +980,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -996,7 +996,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -1012,7 +1012,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "redacted"
     },
@@ -1028,7 +1028,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -1044,7 +1044,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -1060,7 +1060,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -1076,7 +1076,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     },
@@ -1093,7 +1093,7 @@
           "start_line": 21
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "dynamic-unresolved"
     },
@@ -1109,7 +1109,7 @@
           "pointer": "document"
         },
         "repository": "The-Interdependency/openbao",
-        "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5"
+        "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1"
       },
       "status": "invalid"
     }
@@ -20485,7 +20485,7 @@
       "status": "supported"
     },
     {
-      "content_sha256": "3d990b2fa06cee728cf6eb27ff8ac210ac11d2ae8c192ef38b89e2f73c85371d",
+      "content_sha256": "03cad60e1a2ab6340253ba67fbefcd3af96ac9edbe9fb6d0afb6828f3baa870d",
       "entry_kind": "file",
       "file": "metadata/msdmd-policy.json",
       "reader_ids": [
@@ -20496,7 +20496,7 @@
       "status": "supported"
     },
     {
-      "content_sha256": "b4a9a7ae8c54da53e15f89c3b86c1b23375e1f79d2465e198378fc6dee6811ef",
+      "content_sha256": "36dda83d7b1a67e2dfc3ab10e2ca724b87679d4fea57033f4f1c2a56d2c0688a",
       "entry_kind": "file",
       "file": "metadata/msdmd-vendor.json",
       "reader_ids": [
@@ -20507,7 +20507,7 @@
       "status": "supported"
     },
     {
-      "content_sha256": "1c5e200b5c8f7eb8b36222db47214de4600ef82ed181a7ab924acf43add04ddd",
+      "content_sha256": "ba3dc11a9c6be084532a521a88c139b6795f1a5a99bcfce68d05fe570945c864",
       "entry_kind": "file",
       "file": "metadata/msdmd-work-graph.json",
       "reader_ids": [
@@ -53075,7 +53075,7 @@
       "sdk/go.mod",
       "**/go.mod"
     ],
-    "skill_lib_commit": "6bdbfe9c574e6b497f056ebd92655241fc56f681"
+    "skill_lib_commit": "33d2abe8748dd96aec3068e2997d9f73240c7c48"
   },
   "reader_manifests": [
     {
@@ -53793,7 +53793,7 @@
           "file": "go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/go.mod#subject/package/go.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/go.mod#subject/package/go.mod/fact/package-identity/lines%3A1-1"
           ]
         }
       ],
@@ -53808,63 +53808,63 @@
           "file": "api/auth/approle/go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/api/auth/approle/go.mod#subject/package/api%2Fauth%2Fapprole%2Fgo.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/api/auth/approle/go.mod#subject/package/api%2Fauth%2Fapprole%2Fgo.mod/fact/package-identity/lines%3A1-1"
           ]
         },
         {
           "file": "api/auth/jwt/go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/api/auth/jwt/go.mod#subject/package/api%2Fauth%2Fjwt%2Fgo.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/api/auth/jwt/go.mod#subject/package/api%2Fauth%2Fjwt%2Fgo.mod/fact/package-identity/lines%3A1-1"
           ]
         },
         {
           "file": "api/auth/kubernetes/go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/api/auth/kubernetes/go.mod#subject/package/api%2Fauth%2Fkubernetes%2Fgo.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/api/auth/kubernetes/go.mod#subject/package/api%2Fauth%2Fkubernetes%2Fgo.mod/fact/package-identity/lines%3A1-1"
           ]
         },
         {
           "file": "api/auth/ldap/go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/api/auth/ldap/go.mod#subject/package/api%2Fauth%2Fldap%2Fgo.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/api/auth/ldap/go.mod#subject/package/api%2Fauth%2Fldap%2Fgo.mod/fact/package-identity/lines%3A1-1"
           ]
         },
         {
           "file": "api/auth/userpass/go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/api/auth/userpass/go.mod#subject/package/api%2Fauth%2Fuserpass%2Fgo.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/api/auth/userpass/go.mod#subject/package/api%2Fauth%2Fuserpass%2Fgo.mod/fact/package-identity/lines%3A1-1"
           ]
         },
         {
           "file": "api/go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/api/go.mod#subject/package/api%2Fgo.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/api/go.mod#subject/package/api%2Fgo.mod/fact/package-identity/lines%3A1-1"
           ]
         },
         {
           "file": "internal/helper/stubbolt/go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/internal/helper/stubbolt/go.mod#subject/package/internal%2Fhelper%2Fstubbolt%2Fgo.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/internal/helper/stubbolt/go.mod#subject/package/internal%2Fhelper%2Fstubbolt%2Fgo.mod/fact/package-identity/lines%3A1-1"
           ]
         },
         {
           "file": "sdk/go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/sdk/go.mod#subject/package/sdk%2Fgo.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/sdk/go.mod#subject/package/sdk%2Fgo.mod/fact/package-identity/lines%3A1-1"
           ]
         },
         {
           "file": "tools/go.mod",
           "status": "provided",
           "witnesses": [
-            "msdmd://The-Interdependency%2Fopenbao@snapshot%3Acf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5/tools/go.mod#subject/package/tools%2Fgo.mod/fact/package-identity/lines%3A1-1"
+            "msdmd://The-Interdependency%2Fopenbao@snapshot%3A4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1/tools/go.mod#subject/package/tools%2Fgo.mod/fact/package-identity/lines%3A1-1"
           ]
         }
       ],
@@ -53877,11 +53877,11 @@
     "exclusion_accounting": "configured-patterns",
     "git_head": "hmmm",
     "repository": "The-Interdependency/openbao",
-    "revision": "snapshot:cf0538bb410684729cf5110bf7683b7defcf0a7be8d761e8eb7bead295719ca5",
+    "revision": "snapshot:4b68bb1f25d2841ec6389015ef6fbe7f0cfc18adfdb23c243b44c69c35e7d5f1",
     "revision_kind": "content-snapshot",
     "scope": "configured in-scope files; excluded subtrees are reported without traversing",
     "snapshot_complete": false,
-    "snapshot_sha256": "d40b8e6b95ea38b76faea4aff7a7b3d0edf2dca54d809b1a1dcd0adb74242d09"
+    "snapshot_sha256": "c222a57959e13fda4a09c58844190864557d246bcaf8828b4900570aeb5582ae"
   },
   "strict_clean": false,
   "version": 1

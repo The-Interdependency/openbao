@@ -70,7 +70,7 @@ against, no meaningful repo-wide fan-in). Its three ids are single-file
 computable, so the stdlib `ratios_check.py` verifies them with no repo index.
 `loc_comments` is exactly a0's `N:M`; `imports_exports` and `calls_definitions`
 are per-file stand-ins for the surface/graph intent of `C:D` and `I:O`. Repos
-already stamped in this form (skill-lib, aimmh, edcmbone, pcna, pcta, ptca,
+already stamped in this form (skill-lib, aimmh, edcmbone (archived), pcna, pcta, ptca,
 pcea) remain valid and are **not** required to reconvert.
 
 ### The single line and shebang-safe boundary rule
