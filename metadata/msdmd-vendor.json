@@ -1,7 +1,7 @@
 {
   "files": {
     "LICENSE": "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04",
-    "README.md": "5fec32d37e4cf8d6eb6cae86a36963af73b3a527b42bab13ce0ce03c6a73cacf",
+    "README.md": "0718355a04c25609df3d6982d807a1bf9c415693e5a9d2ed1e9d03ec59fcb71e",
     "RESOURCE_RUN_INVARIANT.md": "2c39d84dee5c7087a539c950231ee624408d4fdaa45f97a0627720615c254d4d",
     "doctrine/msdmd-checks.md": "876c4bf7f1505a9c9adfb482d139aacd1ef60c641e206e85bdc09535f5f88403",
     "fresh-making/SKILL.md": "de6e36a0c5a9e665d12bc9bfc6e761ee593f1bbbe9e632d3b0e8976bf67c95c5",
@@ -48,6 +48,6 @@
     "wdll/SKILL.md": "f5e44ef93563f4623c490bba06668110fa96ab045d72ae1264601dbcf9cc5981"
   },
   "generation": "Canonical tools/propagate_skills.py; README is its provenance output. LICENSE, RESOURCE_RUN_INVARIANT.md, skills.json and tools/skill_usage.py are copied from canonical root.",
-  "source_commit": "33d2abe8748dd96aec3068e2997d9f73240c7c48",
+  "source_commit": "c778d5c2c9bd2370a4e0e2a0120508377f5ad3eb",
   "source_repository": "The-Interdependency/skill-lib"
 }

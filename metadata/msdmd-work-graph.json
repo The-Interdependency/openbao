@@ -1,11 +1,11 @@
 {
   "schema": "the-interdependency.stack-manifest",
   "version": "1.0.0",
-  "work_graph_sha256": "34a8c4a74b0f2b9d8cec0e9828178eb20778962231e86b8c9306a77db0db83d0",
+  "work_graph_sha256": "c93ef43f047435ca724362ce6cc90eea699bfe40831de7ba40a041acf6672bff",
   "repositories": [
     {
       "repository": "The-Interdependency/skill-lib",
-      "commit": "33d2abe8748dd96aec3068e2997d9f73240c7c48",
+      "commit": "c778d5c2c9bd2370a4e0e2a0120508377f5ad3eb",
       "authority": "Canonical MSDMD reader and schema implementation",
       "relation": "exact consumed MSDMD reader and schema implementation"
     },
