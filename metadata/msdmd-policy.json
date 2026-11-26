@@ -1,6 +1,6 @@
 {
   "repository": "The-Interdependency/openbao",
-  "skill_lib_commit": "6bdbfe9c574e6b497f056ebd92655241fc56f681",
+  "skill_lib_commit": "c778d5c2c9bd2370a4e0e2a0120508377f5ad3eb",
   "required_sources": [
     "go.mod",
     "api/go.mod",

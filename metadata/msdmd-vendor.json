@@ -1,7 +1,7 @@
 {
   "files": {
     "LICENSE": "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04",
-    "README.md": "222e18792192a299459a340e288d396263459294156c888321c5e9b2786ea843",
+    "README.md": "0718355a04c25609df3d6982d807a1bf9c415693e5a9d2ed1e9d03ec59fcb71e",
     "RESOURCE_RUN_INVARIANT.md": "2c39d84dee5c7087a539c950231ee624408d4fdaa45f97a0627720615c254d4d",
     "doctrine/msdmd-checks.md": "876c4bf7f1505a9c9adfb482d139aacd1ef60c641e206e85bdc09535f5f88403",
     "fresh-making/SKILL.md": "de6e36a0c5a9e665d12bc9bfc6e761ee593f1bbbe9e632d3b0e8976bf67c95c5",
@@ -35,19 +35,19 @@
     "msdmd/typescript-reader.cjs": "11a90b9cef8544b77fad6e8ed9191409c411a97e0ce21ddc53344e4e597c883d",
     "msdmd/visualize.py": "c185c5557aa1e1f3abdc0327bb9ae5e5424db71338c9327e5569cd155e610b11",
     "ratios/HARMONICS.md": "44479e9a5546453d142ca6958c499f9ee1e858c850a1d6b9f2bfb12298109d02",
-    "ratios/SKILL.md": "0cb87576655dec4974d9fa7542cf891ae8cc7f337c4d2dda8a1fbbb8d6839f30",
+    "ratios/SKILL.md": "82e53a2121b0461f33e17badf517e181940661c3487430c5450cac35754c6081",
     "ratios/annotate_index.py": "f59536a0a7bcb7e0f0f77d59aa67f5e934956d1245d8e65c1e80b1d2aabae21c",
     "ratios/harmonic_math.py": "0fc1bfea48f320775514e3029d945ab4b21e73933f802a06a8aa23e0248183a4",
     "ratios/harmonics.py": "f38067557f60a7fb974d7a4e06a7033c532fb1e554dd10708861c419dd28ee4a",
     "ratios/ratios_check.py": "efd14c88b0cef1495f1db3ebaf7a54d96926208156b99d96a9bd6f92cc3db6c7",
     "skill-usage/SKILL.md": "79e82864d35fac919bc32054d99837cf99d6d2f22709006a0fa1c87f461b47aa",
-    "skills.json": "0ecc7b06e8f940d594f0358c53b2b9a5c5419cfd7fdc80a7198d465968767c09",
+    "skills.json": "d0b4a391cb4daeaf82ea6222ee03dc73fbdb30e3ac0709ec6c58353c65563b7a",
     "test-build/SKILL.md": "fb9dae511193a090aa16268a5416bfb20dc3c0108569dd855d2cac4f81a1d2a5",
-    "the-interdependency/SKILL.md": "f57a443dbaefa3b29d09ee5b25185b1ade89ac44e831948ba250f480dea5f825",
+    "the-interdependency/SKILL.md": "5be20e7c4b5aa24a20a068dfa09d8894f5f7ff0fb208f1e5151f43abe25fcbc2",
     "tools/skill_usage.py": "8ba7d131f1e536d0e6a565819680ecd07adde6b06642c392796c140ac3719fbd",
     "wdll/SKILL.md": "f5e44ef93563f4623c490bba06668110fa96ab045d72ae1264601dbcf9cc5981"
   },
   "generation": "Canonical tools/propagate_skills.py; README is its provenance output. LICENSE, RESOURCE_RUN_INVARIANT.md, skills.json and tools/skill_usage.py are copied from canonical root.",
-  "source_commit": "6bdbfe9c574e6b497f056ebd92655241fc56f681",
+  "source_commit": "c778d5c2c9bd2370a4e0e2a0120508377f5ad3eb",
   "source_repository": "The-Interdependency/skill-lib"
 }
